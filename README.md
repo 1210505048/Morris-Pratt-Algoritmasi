@@ -1,0 +1,1 @@
+# Morris-Pratt-Algoritmasi
