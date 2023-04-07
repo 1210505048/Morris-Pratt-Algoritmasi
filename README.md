@@ -2,9 +2,12 @@ ALGORİTMA ANALİZİ VE TASARIMI DERSİ 1. KISA SINAV 2. BÖLÜM ÖDEVİ
 
 Hazırlayan: Berkay Aydın 1210505048
 
-Morris-Pratt
+Python programlam dili kullanılarak yazılan kodda kelimeler önceden belirlenmiş olup kod çalıştırıldığında hangi kelimenin kaç kez geçtiği ekrana yazdırılmaktadır.
+Kodun sorunsuzca çalışabilmesi için Alice in Wonderland metninin dosya.txt adında kod ile aynı klasörde olması gerekmetedir. Bu dosya yolu kod üzerinden değiştirilebilmektedir..
 
 
+
+Morris-Pratt:
 Bu algoritma, gelişmiş bir string eşleştirme algoritmasıdır ve veri kümesi olarak bir metin (text) ve hedeflenen öğe olarak bir kalıp (pattern) kullanır.
 
 Çalışma Şekli
